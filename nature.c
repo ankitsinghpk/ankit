@@ -9,6 +9,6 @@ int main(void) {
 	else if(n>0)
 	printf("Positive");
 	else
-	printf("negative");
+	printf("Negative");
 	return 0;
 }
