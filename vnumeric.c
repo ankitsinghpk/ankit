@@ -15,5 +15,7 @@ int main(void) {
 	}
 	if(flag==1)
 	printf("no");
+	else
+		printf("yes");
 	return 0;
 }
