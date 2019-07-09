@@ -1,3 +1,3 @@
-x=int(input())
-y=int(input())
-print(x**y)
+x1=int(input())
+y1=int(input())
+print(x1**y1)
