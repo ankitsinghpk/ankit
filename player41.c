@@ -12,6 +12,8 @@ int main(void) {
 	 b=sqrt(n);
 	 if(k==b)
 	 printf("yes");
+	 else 
+	 printf("no");
 	 
 	 
 	 
