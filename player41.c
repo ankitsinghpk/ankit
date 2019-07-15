@@ -4,7 +4,8 @@
 
 int main(void) {
 	
-	int n,k,b;
+	int n,k;
+	float b;
 	// your code goes here
 	 scanf("%d",&n);
 	 scanf("%d",&k);
